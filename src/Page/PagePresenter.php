@@ -1,0 +1,8 @@
+<?php namespace Thrive\SpagesModule\Page;
+
+use Anomaly\Streams\Platform\Entry\EntryPresenter;
+
+class PagePresenter extends EntryPresenter
+{
+
+}

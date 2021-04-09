@@ -1,0 +1,11 @@
+{
+    "name": "thrive/spages-module",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Thrive\\SpagesModule\\": "src/"
+        }
+    },
+    "require": {
+    }    
+}
