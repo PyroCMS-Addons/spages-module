@@ -1,4 +1,4 @@
-# Static Pages Module
+# Static Pages Module (Spages)
 #### PyroCMS 3.8
 
 ### Requirements
@@ -10,10 +10,20 @@
 
 
 
-# Dev
+# Installation
+
+`php artisan addon:install thrive.module.spages`
 
 
 
-# cookie
+# Usages
 
     
+In your theme, create the following directory
+
+`resources/views/spages/static_pages/`
+
+Now you can create your static HTML pages here.
+
+File extension can be .twig or .html
+
